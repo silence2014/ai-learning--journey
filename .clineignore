@@ -1,0 +1,16 @@
+.venv
+.vent
+.vscode
+.gitignore
+
+configs/
+data/
+experiments/
+notes/
+reports/
+scripts
+src/
+wandb/
+
+*.xlsx
+README.md
